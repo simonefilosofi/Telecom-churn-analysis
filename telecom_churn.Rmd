@@ -1,17 +1,11 @@
 ---
-title: "Data Analysis for Business - Final Project"
+title: "Telecom Churn Analysis"
 output:
   html_document: default
 ---
 
 # Standard Deviated Group {.tabset .tabset-fade}
 
-Group members:
-
--   Edoardo Cocciò - 282401
--   Alexandra Tabarani - 282091
--   Marta Torella - 284091
--   Simone Filosofi - 284531
 
 ## Task 1 {.tabset .tabset-fade}
 
